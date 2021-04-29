@@ -42,7 +42,7 @@ A aplicação pode ser feita em PHP puro ou algum framework conhecido no mercado
 * Considere sempre quantidade 1 para cada item adicionado na tela de venda;
 * Deve usar o webservice da ViaCEP para completar o endereço após preencher o campo CEP;
 * Os preços dos produtos sofrem atualização semanal, isso não pode interferir no valor das vendas registradas e de seus produtos. Modele o banco de dados de tal forma a tratar essa questão;
-* Crie um repositório novo no seu github pessoal com um arquivo README.md explicando como devo fazer para criar as tabelas e testar a tela de venda;
+* Crie um repositório novo no seu github pessoal com um arquivo README.md explicando como devo fazer para criar as tabelas e testar a tela de venda além de ter todo o código do projeto para ser avaliado;
 * Todos os arquivos necessários para rodar o projeto devem estar no repositório do github;
 * Envie o link do repositório para rh@onehost.com.br;
 
