@@ -3,11 +3,13 @@
 O objetivo deste teste é conhecer suas habilidades em:
 
 * PHP, MySQL, HTML, CSS e JavaScript;
+* Uso do composer para as dependências;
+* Assimilação de conhecimento em um Framework / problema novo;
 * Entendimento e análise dos requisitos;
 * Modelagem de banco de dados;
 * Integração com WebServices;
 
-A aplicação pode ser feita em PHP puro ou algum framework conhecido no mercado. Banco de dados MySQL ou MariaDB. Será um diferencial se for usado o Framework [CakePHP](https://cakephp.org/) versão 4, pois é com ele que você vai trabalhar.
+A aplicação deve ser feita em [CakePHP](https://cakephp.org/) versão 4. Banco de dados MySQL ou MariaDB.
 
 ## Problema
 
