@@ -1,4 +1,4 @@
-# Teste Prático de PHP para novos Colaboradores
+# Teste Prático
 
 O objetivo deste teste é conhecer suas habilidades em:
 
