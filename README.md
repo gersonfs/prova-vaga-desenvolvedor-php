@@ -46,7 +46,7 @@ A aplicação deve ser feita em [CakePHP](https://cakephp.org/) versão 4. Banco
 * Os preços dos produtos sofrem atualização semanal, isso não pode interferir no valor das vendas registradas e de seus produtos. Modele o banco de dados de tal forma a tratar essa questão;
 * Crie um repositório novo no seu github pessoal com um arquivo README.md explicando como devo fazer para criar as tabelas e testar a tela de venda além de ter todo o código do projeto para ser avaliado;
 * Todos os arquivos necessários para rodar o projeto devem estar no repositório do github;
-* Envie o link do repositório para rh@onehost.com.br;
+* Envie o link do repositório para gerson@onehost.com.br;
 
 
 ## Diferenciais
